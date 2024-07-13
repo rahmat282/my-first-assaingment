@@ -1,24 +1,68 @@
-/* navigation bar */
-nav{
-    
+
+
+.azeret-mono normal {
+  font-family: "Azeret Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight:400
+  font-style: normal;
 }
-nav ul{
+/* navigation bar */
+nav ul {
     display: flex;
-    /* text-decoration: none; */
     justify-content: space-between;
 }
-nav li{
+ul li {
     list-style: none;
-    margin-right: 10px;
-    padding: 5px;
+    font-weight: 800;
 }
-nav li a{
-    text-decoration: none;
+li a{
+   text-decoration: none;
+   color: #000000
 }
-/* header from body */
-.start-from-here{
-    background-image:url(assets/Hero-bg.png);
+.nav-btn{
+  box-sizing: border-box;
+  border: 1px solid rgb(13, 19, 33);
+  border-radius: 2px;
+padding: 7px 14px 7px 14px;
 }
-.first-card{
-    text-align: center;
+.hero-bg{
+  background-image:url(assets/Hero-bg.png);
+  margin-top:20px;
+}
+.banner{
+  text-align: center;
+}
+.group-png{
+width: 240px;
+height: 240px;
+left: 257.67%;
+right: -257.67%;
+}
+.banner-title{
+Font size: 48px;
+Row height: 68px
+}
+.banner-description{
+opacity: 0.7;
+color: rgb(13, 19, 33);
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+text-align: center;
+}
+.contact-me{
+  margin: 20px;
+  border-radius: 5px;
+background: rgb(13, 19, 33);
+padding: 11px 14px 11px 14px;
+color: rgb(255, 255, 255);
+text-decoration: none;
+}
+.margin-for-button{
+  /* this is not working */
+  margin: top 300px;
+font-size: 15px;
+font-weight: 1000;
+line-height: 23px;
+
 }
