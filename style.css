@@ -182,3 +182,50 @@ p {
   border-radius: 16px;
   margin: 48px 0px;
 }
+.current-target-first-div,
+.next-target-first-div {
+  text-align: center;
+  padding: 60px 0px 20px 0px;
+}
+
+.target-heading {
+  font-size: 32px;
+  font-weight: 800;
+}
+
+.current-target-all-skill-div {
+  display: flex;
+  gap: 24px;
+  padding-top: 10px;
+}
+
+.current-skill-btn,
+.next-skill-btn {
+  font-size: 16px;
+  font-weight: 700;
+  color: black;
+}
+
+.target-skill-heading {
+  font-size: 24px;
+  font-weight: 800;
+}
+
+.current-target-html-div {
+  border-radius: 16px;
+  background: rgba(255, 76, 30, 0.05);
+  padding: 40px;
+}
+
+.current-target-css-div {
+  background: rgba(0, 76, 232, 0.05);
+  border-radius: 16px;
+  padding: 40px;
+}
+
+.current-target-js-div {
+  background: rgba(255, 223, 0, 0.05);
+  border-radius: 16px;
+  padding: 40px;
+}
+
