@@ -162,3 +162,23 @@ p {
   padding-left: 27px;
   border-radius: 0px 15px 15px 0px;
 }
+
+.inspiration-section {
+  text-align: center;
+  padding: 60px 0px;
+}
+
+.inspiration-heading {
+  font-size: 32px;
+  font-weight: 800;
+}
+
+.inspiration-section-video {
+  padding: 32px;
+  width: 1076px;
+  height: 550px;
+  box-sizing: border-box;
+  border: 1px solid rgba(13, 19, 33, 0.2);
+  border-radius: 16px;
+  margin: 48px 0px;
+}
