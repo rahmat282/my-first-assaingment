@@ -228,4 +228,20 @@ p {
   border-radius: 16px;
   padding: 40px;
 }
+.next-target-section {
+  padding: 25px 0px;
+}
+
+.next-target-skills {
+  display: flex;
+  /* gap: 50px; */
+  margin: 25px 0px;
+  box-sizing: border-box;
+  border: 1px solid rgba(13, 19, 33, 0.15);
+  border-radius: 16px;
+}
+
+.next-target-logo {
+  padding: 50px 30px;
+}
 
