@@ -91,64 +91,74 @@ nav ul li a {
 .padding-for-contact-me {
   padding-top: 32px;
 }
- 
-  /* 2nd section start from here */
-  main {
-    padding: 80px 97px 80px 97px;
-  }
-  
-  .secend-section {
-    border-radius: 16px;
-    background: rgba(13, 19, 33, 0.02);
-    padding: 0px 97px 80px 97px;
-  
-  }
-  
-  .secend-section-first-div {
-    /* width: 852px;
+
+/* 2nd section start from here */
+main {
+  padding: 80px 97px 80px 97px;
+}
+
+.secend-section {
+  border-radius: 16px;
+  background: rgba(13, 19, 33, 0.02);
+  padding: 0px 97px 80px 97px;
+
+}
+
+.secend-section-first-div {
+  /* width: 852px;
   height: 115px; */
-    padding: 56px 97px 10px 97px;
-    text-align: center;
-  }
-  
-  .secend-section-title {
-    font-size: 32px;
-    font-weight: 800;
-  }
-  
-  .secend-section-secend-div {
-    display: flex;
-    border-radius: 16px;
-    background: linear-gradient(90.00deg, rgb(255, 255, 255), rgba(255, 255, 255, 0) 100%);
-  }
-  
-  .secend-div-left-side {
-    background-color: white;
-    padding: 40px;
-    border-radius: 15px 0px 0px 15px;
-  }
-  
-  .heading-color {
-    color: rgba(13, 19, 33, 0.7);
-    font-size: 24px;
-    font-weight: 700;
-  }
-  
-  p {
-    font-size: 16px;
-    opacity: 0.7;
-  }
-  
-  .secend-div-left-side-btn {
-    font-size: 20px;
-    font-weight: 600;
-    color: rgb(13, 19, 33);
-    padding: 12px 20px 12px 20px;
-    margin: 16px 0px;
-    background-color: white;
-  }
-  
-  .secend-div-right-side {
-    padding: 30px 25px 0px 30px;
-  }
-  
+  padding: 56px 97px 10px 97px;
+  text-align: center;
+}
+
+.secend-section-title {
+  font-size: 32px;
+  font-weight: 800;
+}
+
+.secend-section-secend-div {
+  display: flex;
+  border-radius: 16px;
+  background: linear-gradient(90.00deg, rgb(255, 255, 255), rgba(255, 255, 255, 0) 100%);
+}
+
+.secend-div-left-side {
+  background-color: white;
+  padding: 40px;
+  border-radius: 15px 0px 0px 15px;
+}
+
+.heading-color {
+  color: rgba(13, 19, 33, 0.7);
+  font-size: 24px;
+  font-weight: 700;
+}
+
+p {
+  font-size: 16px;
+  opacity: 0.7;
+}
+
+.secend-div-left-side-btn {
+  font-size: 20px;
+  font-weight: 600;
+  color: rgb(13, 19, 33);
+  padding: 12px 20px 12px 20px;
+  margin: 16px 0px;
+  background-color: white;
+}
+
+.secend-div-right-side {
+  padding: 30px 25px 0px 30px;
+}
+
+.secend-section-third-div-left {
+  padding: 35px 10px 0px 40px;
+}
+
+.secend-section-third-div-right {
+  background-color: white;
+  padding-top: 35px;
+  padding-left: 27px;
+  border-radius: 0px 15px 15px 0px;
+}
